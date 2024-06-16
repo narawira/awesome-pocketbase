@@ -6,7 +6,7 @@ PocketBase is a powerful open-source backend designed to simplify application de
 
 Furthermore, PocketBase offers a straightforward REST-like API, allowing for easy interaction with the backend from various client applications.
 
-## Table of Contents
+## Contents
 
 - [Official Packages](#official-packages)
 - [Docker](#docker)
@@ -16,21 +16,23 @@ Furthermore, PocketBase offers a straightforward REST-like API, allowing for eas
 - [D](#d)
 - [Dart](#dart)
 - [Go](#go)
-- [JavaScript/TypeScript](#javascript-typescript)
+- [HTMX](#htmx)
+- [JavaScript/TypeScript](#javascripttypescript)
     - [React](#react)
+    - [Remix](#remix)
     - [Svelte](#svelte)
     - [Vue](#vue)
-    - [Node.js](#node-js)
+    - [Node.js](#nodejs)
 - [Kotlin](#kotlin)
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
-- [Tools/Plugin](#tools-plugin)
+- [Swift](#swift)
+- [Tools/Plugin](#toolsplugin)
     - [Extended Go](#extended-go)
     - [Extended SQLite](#extended-sqlite)
     - [TypeScript](#typescript)
     - [Other](#other)
-- [Contributing](#contributing)
 
 ## Official Packages
 
@@ -232,17 +234,3 @@ Here's another tools or plugin that related to the PocketBase or can be used wit
 | PocketBase UML | Generates UML diagrams based on PocketBase databases. | [Homepage](https://pocketbase-uml.github.io/) | MIT |
 | PocketBlocks | Integration between Openblocks and Pocketbase. | [GitHub](https://github.com/internoapp/pocketblocks) | AGPL-3.0 |
 | PostgreBase | Fork of PocketBase, but replacing the sqlite with CockroachDB and PostgreSQL. | [GitHub](https://github.com/zhenruyan/postgrebase) | MIT |
-
-## Contributing
-
-Contributions are welcome! If you have an awesome PocketBase resource, feel free to submit a pull request. Please ensure your contributions adhere to the following guidelines:
-
-1. Ensure the resource is useful and relevant to the PocketBase community.
-2. Provide a clear description of the resource.
-3. Follow the existing format and structure for adding resources.
-
-For any questions or discussions, please open an issue on the GitHub repository.
-
-## License
-
-This repository is licensed under the CC0 License. See the [LICENSE](LICENSE) file for more details.
