@@ -79,7 +79,7 @@ Furthermore, PocketBase offers a straightforward REST-like API, allowing for eas
 | Realtime Blog | React-based real-time blog demo.  | [GitHub](https://github.com/rajesh6161/pbRealtimeBlog) | - |
 | Share Me | An image and video hosting platform for your server, with rich embed support and API. | [GitHub](https://github.com/Dan6erbond/share-me) | MIT |
 | Showcase | Full stack application built with SvelteKit & PocketBase. | [GitHub](https://github.com/huntabyte/showcase) | - |
-| SvelteKit Auth | Demonstrates how to integrate PocketBase with SvelteKit 1.0. The project includes login and registration pages, as well as examples of how to retrieve the current user. | [GitHub](https://github.com/pocketbase-sveltekit-auth) | MIT |
+| SvelteKit Auth | Demonstrates how to integrate PocketBase with SvelteKit 1.0. The project includes login and registration pages, as well as examples of how to retrieve the current user. | [GitHub](https://github.com/jianyuan/pocketbase-sveltekit-auth) | MIT |
 | ToDo App | React-based To-Do demo app. | [GitHub](https://github.com/rajesh6161/pocketbaseTodo) | - |
 | UpSnap | A simple wake on lan web app written with SvelteKit, Go and PocketBase. | [GitHub](https://github.com/seriousm4x/UpSnap) | MIT |
 | Vimsnake | A real-time WASM game where Vim commands are used as controller inputs. | [GitHub](https://github.com/patmood/vim_snake) | - |
