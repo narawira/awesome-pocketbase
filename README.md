@@ -79,6 +79,7 @@ Furthermore, PocketBase offers a straightforward REST-like API, allowing for eas
 | Realtime Blog | React-based real-time blog demo.  | [GitHub](https://github.com/rajesh6161/pbRealtimeBlog) | - |
 | Share Me | An image and video hosting platform for your server, with rich embed support and API. | [GitHub](https://github.com/Dan6erbond/share-me) | MIT |
 | Showcase | Full stack application built with SvelteKit & PocketBase. | [GitHub](https://github.com/huntabyte/showcase) | - |
+| STJÓRNA | Multi-tenant product and catalogue management with roles, SSO and a read-only REST API. | [GitHub](https://github.com/secanis/stjorna) | AGPL-3.0 |
 | SvelteKit Auth | Demonstrates how to integrate PocketBase with SvelteKit 1.0. The project includes login and registration pages, as well as examples of how to retrieve the current user. | [GitHub](https://github.com/jianyuan/pocketbase-sveltekit-auth) | MIT |
 | ToDo App | React-based To-Do demo app. | [GitHub](https://github.com/rajesh6161/pocketbaseTodo) | - |
 | UpSnap | A simple wake on lan web app written with SvelteKit, Go and PocketBase. | [GitHub](https://github.com/seriousm4x/UpSnap) | MIT |
